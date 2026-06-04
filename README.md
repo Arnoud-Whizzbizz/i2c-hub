@@ -1,4 +1,4 @@
-DIY I2C Hub for Use in fischertechnik Projects
+DIY I2C Hub for use in fischertechnik Projects
 
 Since I wanted to be able to use the I2C bus and various peripherals with 3.3- or 5-volt power supplies interchangeably on Arduino, ESP-32, or fischertechnik controllers, I designed this small I2C hub. Its features are:
 
