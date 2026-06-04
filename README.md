@@ -9,3 +9,5 @@ Since I wanted to be able to use the I2C bus and various peripherals with 3.3- o
 -- Multiple Grove/Seeed I2C connectors for connecting sensors with a supply voltage and I2C signal level of 3.3 volts.
 
 -- Multiple Grove/Seeed I2C connectors for connecting sensors with a supply voltage and I2C signal level of 5 volts.
+
+More project info on https://www.whizzbizz.com/nl/i2c-hub
